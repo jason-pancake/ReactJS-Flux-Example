@@ -12,11 +12,11 @@ You need to have [NodeJS](http://nodejs.org), [npm](http://www.npmjs.com), and a
 ## Install
 
 ```
-$> mkdir react-app
+$ mkdir react-app
 ```
 
 ```
-$> git clone git@github.com:jason-pancake/ReactJS-Flux-Example.git ./react-app
+$ git clone git@github.com:jason-pancake/ReactJS-Flux-Example.git ./react-app
 ```
 
 ## Usage
@@ -24,23 +24,23 @@ $> git clone git@github.com:jason-pancake/ReactJS-Flux-Example.git ./react-app
 Install the dependencies:
 
 ```
-$> cd react-app/src
+$ cd react-app/src
 ```
 
 ```
-$> npm install
+$ npm install
 ```
 
 Start the Browserify watcher:
 
 ```
-$> npm start
+$ npm start
 ```
 
 Start a web server of your choice:
 
 ```
-$> php -S localhost:8000
+$ php -S localhost:8000
 ```
 
 Open a browser and go to [http://localhost:8000](http://localhost:8000)
