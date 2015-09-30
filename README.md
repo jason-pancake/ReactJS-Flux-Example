@@ -24,7 +24,7 @@ $> git clone git@github.com:jason-pancake/ReactJS-Flux-Example.git ./react-app
 Install the dependencies:
 
 ```
-$> cd react-app
+$> cd react-app/src
 ```
 
 ```
